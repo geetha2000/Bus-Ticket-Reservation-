@@ -1,0 +1,61 @@
+#main-wrapper{
+    width:400px;
+    height:420px;
+    columns: #000000;
+    top: 50%;
+    left:50%;
+    padding:60 px 30px;
+    position:absolute;
+    transform:translate(-50%,-50%);
+    box-sizing: border-box;
+    box-shadow: 8px 8px 50px #000000;
+}
+h2{
+    margin:0;
+    padding:0;
+    font-weight: bold;
+    font-size:22px;
+    color:#000000;
+    text-align:center;
+    margin-bottom: 8%;
+    font-family: Courgette;
+
+}
+#main-wrapper input [type=text],#main-wrapper input [type=password]{
+    border:none;
+    border-bottom:1px solid #dddd;
+    background: transparent;
+    outline:none;
+    height:30px;
+    font-size:16px;
+    opacity:1;
+    color:#ccc;
+
+
+}
+#main-wrapper input [type=submit]{
+    border:none;
+    outline:none;
+    height:40px;
+    background:#f6648b;
+    color:#ffff;
+    font-size: 14px;
+    font-weight:bold;
+}
+#login_btn{
+    border:none;
+    outline:none;
+    margin-top: 10px;
+    background-color:skyblue;
+    padding:5px;
+    color: black;
+    width:105px;
+    text-align: center;
+    height:40px;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+

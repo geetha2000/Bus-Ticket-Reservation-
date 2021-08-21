@@ -1,0 +1,11 @@
+.content{
+  min-height:250px;
+  width:500px;
+  
+}
+.main-content{
+  min-height:250px;
+  
+  background: white;
+  border:2px solid black;
+}
